@@ -1,5 +1,8 @@
 # Agustín Pumarejo Ontañón, Sebastián Juncos Leunig, Adriana Abella Kuri
 
+# Juego STEAM
+Start with a descriptive and succinct name for your project. Change the above with the name of your project
+
 # Table of content
 
 - [Introduction](#introduction)
@@ -21,24 +24,27 @@ _Table of content generated using VSCode plugin [Markdown TOC](https://marketpla
 # Introduction
 
 ## Purpose
-Set the expectation for the product you’re building. So, start by defining the purpose of your product.
+Promover que alumnos de preparatoria o más jovenes escojan carreras STEAM. Se desarrollara un videojuego que sea atrativo y que provoque interes en un área STEAM.
 
 ## Scope
-Describe the software being specified. Include benefits, objectives, and goals. This should relate to overall business goals, especially if teams outside of development will have access to the SRS
+Alumnos mexicanos entre 9 y 18 años.
 
 ## Definitions and Acronyms
-Include any non-trivial definition or acronym used in the document.
+STEAM: ciencias, tecnologías, ingeniería, artes y matemáticas (por sus siglas en inglés)
 
 # Overall Description
-Describe what you’re going to build. Is it an update to an existing product? Is it a new product? Is it an add-on to a product you’ve already created?
-
-These are important to describe upfront, so everyone knows what you’re building.
+Un videojuego original 
 
 ## User classes
-User classes and characteristics are critical. You’ll need to define who (different roles) is going to use the product and how. Don't forget to include each user needs.
+Jugadores: Alumno que utilizará el juego
+
+Analista de STEAM: Miembro de la OSF que verá el progreso de los jugadores en el juego 
 
 ## Assumptions and Dependencies
-There might be factors that impact your ability to fulfill the requirements outlined in this document. What are those factors?
+Suposiciones: 
+Desarrollar una habilidad relacionada con un área de conocimiento genera un interés en esa área.
+
+El jugador tiene una conexión a internet, un na
 
 Are there any assumptions you’re making that could turn out to be false? You should include those here, as well.
 
